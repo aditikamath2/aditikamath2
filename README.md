@@ -7,6 +7,7 @@ I am currently working on:
 - Expanding knowledge in quantitative finance and fintech applications.
 
 SKILLS
+
 Programming Languages: Python, CSS, Java, JavaScript, HTML, TypeScript
 Frameworks/Libraries: React, Numpy, Pandas, Scikit-learn
 Cloud & DevOps: AWS (Certified Cloud Practitioner), Amazon S3, AWS Lambda, IAM, EC2, API Gateway, SES, IAM
@@ -14,11 +15,17 @@ Developer Tools: Git, GitHub, Vite, Node.js, VSCode
 
 
 PROJECTS
+
 Hexara Web Application                                                                                                                                                                          
 A client facing web application for iPivot Technology, featuring a contact us and job application system with resume uploads 
 Developed a React, TypeScript, Vite web application using a fully AWS native infrastructure (S3, Lambda, Amplify, SES, IAM,  etc)
 Built serverless backend functionality using AWS Lambda and API Gateway to handle dynamic site features securely 
 Automated CI/CD deployment pipeline from GitHub to AWS streamlining build and release processes while managing access control
+
+Reach Me:
+
+email: aditikamath20@gmail.com
+linkedin: www.linkedin.com/in/aditikamath1
 
 
 
