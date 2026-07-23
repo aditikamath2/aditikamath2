@@ -12,3 +12,19 @@ Frameworks/Libraries: React, Numpy, Pandas, Scikit-learn
 Cloud & DevOps: AWS (Certified Cloud Practitioner), Amazon S3, AWS Lambda, IAM, EC2, API Gateway, SES, IAM
 Developer Tools: Git, GitHub, Vite, Node.js, VSCode
 
+
+PROJECTS
+Hexara Web Application                                                                                                                                                                          
+A client facing web application for iPivot Technology, featuring a contact us and job application system with resume uploads 
+Developed a React, TypeScript, Vite web application using a fully AWS native infrastructure (S3, Lambda, Amplify, SES, IAM,  etc)
+Built serverless backend functionality using AWS Lambda and API Gateway to handle dynamic site features securely 
+Automated CI/CD deployment pipeline from GitHub to AWS streamlining build and release processes while managing access control
+
+
+
+Pomodoro Timer Web Application                                                                                                                                                    
+A browser based productivity timer that helps manage work and break intervals using the Pomodoro technique
+Designed and coded the full application front end using HTML, CSS, and JavaScript
+Incorporated responsive UI design, interactive start/reset controls, real time countdown functionality, and deployed via GitHub Pages
+Implemented audio alerts to notify users of transitions between work and break sessions, improving usability, and time awareness 
+
