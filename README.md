@@ -22,10 +22,7 @@ Developed a React, TypeScript, Vite web application using a fully AWS native inf
 Built serverless backend functionality using AWS Lambda and API Gateway to handle dynamic site features securely 
 Automated CI/CD deployment pipeline from GitHub to AWS streamlining build and release processes while managing access control
 
-Reach Me:
 
-email: aditikamath20@gmail.com
-linkedin: www.linkedin.com/in/aditikamath1
 
 
 
@@ -35,3 +32,10 @@ Designed and coded the full application front end using HTML, CSS, and JavaScrip
 Incorporated responsive UI design, interactive start/reset controls, real time countdown functionality, and deployed via GitHub Pages
 Implemented audio alerts to notify users of transitions between work and break sessions, improving usability, and time awareness 
 
+
+
+Reach Me:
+
+email: aditikamath20@gmail.com
+
+linkedin: www.linkedin.com/in/aditikamath1
